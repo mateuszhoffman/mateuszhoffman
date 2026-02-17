@@ -2,12 +2,9 @@
 
 I've been working with technology for a while - web development, industrial IoT cloud platforms, built and led engineering teams at ABB, some writing and speaking mixed in.
 
-These days I'm at Hitachi Energy leading innovation services globally, spending most of my time with artificial intelligence and machine learning. 
+These days I'm working at Hitachi Energy as a Global IT Manager responsible for leading, fast-tracking and IT innovations in areas of artificial intelligence, extended reality, and autonomous mobile robots.
 
-**What I'm curious about:**
-- How AI systems work underneath (not just using them)
-- Building agents and RAG systems
-- Experimenting with different approaches - sometimes coding from scratch to understand the foundations, sometimes using no-code tools to move quickly
+Personally I'm passionate about AI and extended reality - exploring new tools and large language models, but also playing around with machine learning and data analysis. I'm curious how these systems work underneath, so I build agents, RAG systems, and experiment with different approaches. Sometimes coding from scratch to understand the foundations, sometimes using no-code tools to move quickly.
 
 <br/>
 
