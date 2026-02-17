@@ -6,8 +6,6 @@ These days I'm working at Hitachi Energy as a Global IT Manager responsible for 
 
 Outside of my core role, I focus heavily on Generative AI - working with LLMs, designing agent-based systems, building RAG pipelines, and experimenting with various ML approaches. I enjoy going deep into system mechanics and balancing foundational implementation with rapid prototyping.
 
-<br/>
-
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuszhoffman)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mateuszhoffman)
